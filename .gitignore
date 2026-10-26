@@ -1,0 +1,19 @@
+node_modules/
+dist/
+work/
+.DS_Store
+outputs/
+bug/
+.workbuddy/
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+.wrangler/
+.vercel/
+.netlify/
+# Local planning documents contain delivery context, not public source.
+Gesture-Earth-V0.1-*.md
+docs/Gesture-Earth-V0.1-*.md
